@@ -1,4 +1,4 @@
-# SUPRA NODE LATECY TESTER
+# SUPRA NODE LATENCY TESTER
 you need python - pip - web3
 
 ## Install python pip
