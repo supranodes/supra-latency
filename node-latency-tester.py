@@ -63,11 +63,6 @@ for endpoint, times in request_times.items():
 
     print(f"Average latency time for {endpoint} is  {colored(0, 255, 0, '{:.3f}'.format(average_time * 1000))} ms")
 
-
-
-
-
-
-
-
-print(colored(0, 191, 255,"www.supranodes.com"))
+print(colored(0, 191, 255,"######################################################"))
+print(colored(0, 191, 255,"#############     www.supranodes.com     #############"))
+print(colored(0, 191, 255,"######################################################"))
