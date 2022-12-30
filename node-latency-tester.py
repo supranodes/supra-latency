@@ -27,7 +27,7 @@ print (colored(0, 255, 127,"██║     ██╔══██║   ██║  
 print (colored(0, 255, 127,"███████╗██║  ██║   ██║   ███████╗██║ ╚████║╚██████╗   ██║          ██║   ███████╗███████║   ██║   ███████╗██║  ██║"))
 print (colored(0, 255, 127,"╚══════╝╚═╝  ╚═╝   ╚═╝   ╚══════╝╚═╝  ╚═══╝ ╚═════╝   ╚═╝          ╚═╝   ╚══════╝╚══════╝   ╚═╝   ╚══════╝╚═╝  ╚═╝"))
 print ("")
-print (colored(0, 191, 255,"                   www.supranodes.com"))
+print (colored(0, 191, 255,"       www.supranodes.com"))
 print (colored(0, 191, 255,"       Join us on  discord.gg/v4YAfwbj7z  for a 24h node free test !"))
 print ("")
 print ("")
