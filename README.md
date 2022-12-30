@@ -1,4 +1,9 @@
 # SUPRA NODE LATENCY TESTER
+
+>To test the latency of a node, a simple ping is not accurate.
+>
+>This tester is sending web3 requests to the node to test the latency. 
+
 you need python - pip - web3
 
 ## Install python pip
