@@ -27,15 +27,15 @@ print (colored(0, 255, 127,"██║     ██╔══██║   ██║  
 print (colored(0, 255, 127,"███████╗██║  ██║   ██║   ███████╗██║ ╚████║╚██████╗   ██║          ██║   ███████╗███████║   ██║   ███████╗██║  ██║"))
 print (colored(0, 255, 127,"╚══════╝╚═╝  ╚═╝   ╚═╝   ╚══════╝╚═╝  ╚═══╝ ╚═════╝   ╚═╝          ╚═╝   ╚══════╝╚══════╝   ╚═╝   ╚══════╝╚═╝  ╚═╝"))
 print ("")
-print (colored(0, 191, 255,"supranodes.com"))
-print (colored(0, 191, 255,"discord.gg/v4YAfwbj7z"))
+print (colored(0, 191, 255,"                   www.supranodes.com"))
+print (colored(0, 191, 255,"                   discord.gg/v4YAfwbj7z"))
 print ("")
 print ("")
 
 print ("Enter the amount of request to make for the test")
 num_calls = int(input("(Public nodes: 100-150 // Private Node, 800-1000) : "))
 print ("")
-print(colored(255, 0, 0,"supranodes.com"))
+print(colored(0, 191, 255,"www.supranodes.com"))
 for endpoint in endpoints:
     request_times[endpoint] = []
     if endpoint.startswith("http"):
@@ -68,4 +68,4 @@ for endpoint, times in request_times.items():
 
 
 
-print(colored(255, 0, 0,"supranodes.com"))
+print(colored(0, 191, 255,"www.supranodes.com"))
