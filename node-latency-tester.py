@@ -35,7 +35,9 @@ print ("")
 print ("Enter the amount of request to make for the test")
 num_calls = int(input("(Public nodes: 100-150 // Private Node, 800-1000) : "))
 print ("")
-print(colored(0, 191, 255,"www.supranodes.com"))
+print(colored(0, 191, 255,"######################################################"))
+print(colored(0, 191, 255,"#############     www.supranodes.com     #############"))
+print(colored(0, 191, 255,"######################################################"))
 for endpoint in endpoints:
     request_times[endpoint] = []
     if endpoint.startswith("http"):
