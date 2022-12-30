@@ -66,3 +66,6 @@ for endpoint, times in request_times.items():
 print(colored(0, 191, 255,"######################################################"))
 print(colored(0, 191, 255,"#############     www.supranodes.com     #############"))
 print(colored(0, 191, 255,"######################################################"))
+
+print("")
+print("")
