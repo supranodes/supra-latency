@@ -21,3 +21,6 @@ pip install web3
 
 ## Run script:
 python3 node-latency-tester.py
+
+## Enter the amount of request you want to send
+(Public nodes: 100-150 // Private Node, 800-1000)
